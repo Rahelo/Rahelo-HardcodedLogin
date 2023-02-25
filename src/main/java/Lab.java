@@ -18,7 +18,7 @@ public class Lab {
         
         
         
-        if(username=="" && password==""){
+        if(username=="admin" && password=="qwerty" || username=="user" && password=="password"){
             
             return true;
 
